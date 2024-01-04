@@ -29,12 +29,12 @@ echo -e "************************************************************" | lolcat
 echo -e "* menu         : สารบัญคำสั่ง"
 echo -e "************************************************************" | lolcat
 echo -e "                     SSH "
-echo -e "* new          : สร้างบัญชี SSH & OpenVPN"
-echo -e "* renew        : ต่ออายุบัญชี SSH & OpenVPN"
-echo -e "* deluser      : ลบบัญชี SSH & OpenVPN"
+echo -e "* new          : สร้างบัญชี SSH"
+echo -e "* renew        : ต่ออายุบัญชี SSH"
+echo -e "* deluser      : ลบบัญชี SSH"
 echo -e "* check        : แสดงบัญชีผู้ใช้งาน SSH & OpenVPN"
-echo -e "* user         : แสดงบัญชี SSH & OpenVPN ทั้งหมด"
-echo -e "* delete       : ลบบัญชี SSH & OpenVPN ที่หมดอายุแล้ว"
+echo -e "* user         : แสดงบัญชี SSH ทั้งหมด"
+echo -e "* delete       : ลบบัญชี SSH ที่หมดอายุแล้ว"
 echo -e "* autokill     : ตั้งค่าการเข้าใช้งานหลายบัญชี"
 echo -e "* multi        : แสดงบัญชีที่เข้าใช้งานหลายเครื่อง"
 echo -e "************************************************************" | lolcat
