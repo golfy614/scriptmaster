@@ -28,7 +28,7 @@ echo -e ""
 echo -e "************************************************************" | lolcat
 echo -e "* menu         : สารบัญคำสั่ง"
 echo -e "************************************************************" | lolcat
-echo -e "                     SSH AND OPENVPN"
+echo -e "                     SSH "
 echo -e "* new          : สร้างบัญชี SSH & OpenVPN"
 echo -e "* renew        : ต่ออายุบัญชี SSH & OpenVPN"
 echo -e "* deluser      : ลบบัญชี SSH & OpenVPN"
@@ -61,7 +61,7 @@ echo -e "* sss          : สร้างบัญชี SS"
 echo -e "* sssd         : ลบบัญชี SS"             
 echo -e "* ssr          : ต่ออายุบัญชี SS"                     
 echo -e "************************************************************" | lolcat
-echo -e "                                              ตั้งค่าระบบ"
+echo -e "                    ตั้งค่าระบบ"
 echo -e "* adhost       : เปลี่ยนโดเมน"
 echo -e "* cert         : ต่ออายุ Certificate ของบัญชี  Xray" 
 echo -e "* webmin       : ติดตั้ง Webmin " 
